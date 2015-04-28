@@ -1,5 +1,0 @@
-C:\pd\ERNI\codingDojo\codes\calculator\CalculatorKata\CalculatorKata\bin\Debug\CalculatorKata.dll
-C:\pd\ERNI\codingDojo\codes\calculator\CalculatorKata\CalculatorKata\bin\Debug\CalculatorKata.pdb
-C:\pd\ERNI\codingDojo\codes\calculator\CalculatorKata\CalculatorKata\obj\Debug\CalculatorKata.csprojResolveAssemblyReference.cache
-C:\pd\ERNI\codingDojo\codes\calculator\CalculatorKata\CalculatorKata\obj\Debug\CalculatorKata.dll
-C:\pd\ERNI\codingDojo\codes\calculator\CalculatorKata\CalculatorKata\obj\Debug\CalculatorKata.pdb
